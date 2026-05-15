@@ -13,15 +13,15 @@ Keylo is a personal offline password manager developed by Tiffany Hsu (@thisistf
 
 **We collect absolutely nothing.**
 
-- ❌ No user accounts required
-- ❌ No data sent to any server
-- ❌ No analytics or crash reporting
-- ❌ No advertising
-- ❌ No third-party tracking
+- No user accounts required
+- No data sent to any server
+- No analytics or crash reporting
+- No advertising
+- No third-party tracking
 
 ## Data Storage
 
-All data is stored **exclusively on your device**:
+All data is stored exclusively on your device:
 - iOS: Protected by iOS app sandbox
 - Android: Protected by Android app sandbox
 
@@ -49,4 +49,4 @@ keylo.app.support@gmail.com
 
 Keylo, its name, logo, design, and all associated content are the intellectual property of Tiffany Hsu (@thisistfy). Unauthorized copying, distribution, modification, or commercial use of any part of this application is strictly prohibited.
 
-The alien cat mascot and all visual assets used in Keylo are original works created for this application. All rights reserved.
+The alien cat mascot and all visual assets used in Keylo are original works created for this application. Visual assets created with AI assistance. All rights reserved.
